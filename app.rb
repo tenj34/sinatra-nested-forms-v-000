@@ -7,5 +7,7 @@ module FormsLab
       erb :index
     end
 
+    get '/new'
+
   end
 end

@@ -14,4 +14,3 @@ class Ship
     @@ships = []
   end
 end
-end

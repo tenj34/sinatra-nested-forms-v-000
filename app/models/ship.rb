@@ -8,9 +8,9 @@ class Ship
     @@ships << self
   end
    def self.all
-    @@ships
-  end
+     @@ships
+    end
    def self.clear
-    @@ships = []
-  end
+     @@ships = []
+    end
 end
